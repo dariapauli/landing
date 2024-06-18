@@ -1,0 +1,12 @@
+.footer {
+  background-color: #283618;
+  text-align: center;
+  padding: 60px;
+  color: #FFFFFF;
+}
+
+.footer .fa-brands {
+  font-size: 2em;
+  color: #FEFAE0;
+  margin: 10px;
+}

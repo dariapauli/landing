@@ -1,0 +1,9 @@
+.banner {
+  background-image: url("https://i.etsystatic.com/37712799/r/il/0a5b4d/4383474441/il_fullxfull.4383474441_ifgz.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  justify-content: center;
+  align-items: center;
+  color: #FFFFFF;
+}
